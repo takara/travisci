@@ -4,3 +4,7 @@ php:
 
 script:
     - pear run-tests tests
+
+notifications:
+  email:
+    - taka2063jp@gmail.com
